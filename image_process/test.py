@@ -16,7 +16,7 @@ right = {X: 495, Y:866}
 break = {X: 1417 Y: 1003}
 drift = {X: 1690, Y: 886}
 booster = {X: 1600, Y: 628}
-init_booster = {X: 1435, Y: 741}
+temp_booster = {X: 1435, Y: 741}
 pause_game = {X: 1726, Y: 67}
 reset_game = {X: 969, Y: 1045}
 """
