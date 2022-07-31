@@ -52,3 +52,7 @@ while True:
             print("Quit")
             break
 cv2.destroyAllWindows()
+
+
+im = ImageGrab.grab(bbox=(x1, y1, x2, y2))
+im.show()
